@@ -5,4 +5,4 @@ A population-based global optimization algorithm inspired by the topology of a t
 
 ## Publication
 
-Manuscript in preparation.
+Manuscript in preparation. See [TSA.pdf](./TSA.pdf) for the current draft.
